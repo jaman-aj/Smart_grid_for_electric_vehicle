@@ -1,4 +1,4 @@
-﻿,Energy,Energy_2,Trip,Average_Speeds,Style,Motor_Way,City,Country_Road,Tire_Type,Parking_Heat,Consumptions,Per_Km_Consumption
+﻿,Energy_1,Energy_2,Trip,Average_Speeds,Style,Motor_Way,City,Country_Road,Tire_Type,Parking_Heat,Consumption_1,Consumption_2
 0,[],,[],,[],,,,[],,,
 1,"['2,81']",2.8,"['23,0']",31.0,['Moderate'],0.0,1.0,1.0,['Summer tires'],0.0,"12,22",12.2
 2,"['1,94']",1.9,"['18,0']",47.0,['Moderate'],0.0,1.0,0.0,['Summer tires'],0.0,"10,78",10.8
